@@ -1,0 +1,19 @@
+{
+	"name": "zz.app",
+	"version": "20161031.0.0",
+	"description": "Base classes for ZZ applications.",
+	"author": {
+		"name": "Artem Lytvynov",
+		"email": "buntarb@gmail.com"
+	},
+	"license": "Apache-2.0",
+    "homepage": "http://imazzine.com/idl/zz.app/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/buntarb/zz.app.git"
+	},
+	"dependencies": {
+
+	    "imazzine-developer-kit": ""
+	}
+}
