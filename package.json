@@ -16,6 +16,7 @@
 
 	    "imazzine-developer-kit": "",
 		"zz.environment": "",
-		"zz.services": ""
+		"zz.services": "",
+		"zz.net": ""
 	}
 }
