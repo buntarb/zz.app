@@ -1,6 +1,6 @@
 {
 	"name": "zz.app",
-	"version": "20161226.0.3",
+	"version": "20161226.0.4",
 	"description": "Base classes for ZZ applications.",
 	"author": {
 		"name": "Artem Lytvynov",
