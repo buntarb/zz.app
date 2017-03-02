@@ -46,6 +46,9 @@ SERVER:
   # Server port
   SERVER_PORT: 8888
 
+  # Server IDE port
+  SERVER_IDE_PORT: 8887
+
   # Documentation server sub-domain
   SERVER_DOC: 'doc'
 
@@ -61,11 +64,14 @@ SERVER:
   # Unit Test server sub-domain
   SERVER_UT: 'ut'
 
+  # IDE server sub-domain
+  SERVER_IDE: 'ide'
+
 # Compile settings
 COMPILATION:
 
   # Default locale
-  LOCALE: 'en'
+  LOCALE: 'ru'
 
   # Compilation level
   COMPILE_LEVEL: 'ADVANCED_OPTIMIZATIONS'
@@ -81,3 +87,15 @@ COMPILATION:
 
   # Version of source map files
   SOURCE_MAP: 'V3'
+
+# IDE setting
+IDE:
+
+  #WSServer host
+  WS_SERVER_HOST: 'localhost'
+
+  #WSServer port
+  WS_SERVER_PORT: '7777'
+
+  #WSServer path
+  WS_SERVER_PATH: ''
